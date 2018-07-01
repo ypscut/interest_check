@@ -1,0 +1,2 @@
+# interest_check
+基于flask封装的一个兴趣爱好文本匹配的接口
